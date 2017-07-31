@@ -15,6 +15,8 @@ Have a look at the plot that showed up in the viewer to the right. Which color i
 - Red
 - Yellow
 
+$\int_0^\pi dx = a$
+
 *** =hint
 Have a look at the plot. Which color does the point with the lowest rating have?
 

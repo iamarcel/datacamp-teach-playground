@@ -3,8 +3,6 @@ title       : Chapter 2
 description : The Next Frontier
 
 --- type:NormalExercise lang:r xp:10 key:2c3a3ca7e3
-*** =video_link
-//player.vimeo.com/video/108225030
 
 *** =instructions
 ### An Exercise
@@ -34,3 +32,9 @@ test_object("y",
     undefined_msg = "You should define `y`.",
     incorrect_msg = "`y` has an incorrect value.")
 ```
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:a54b25286b
+## My Video Exercise
+
+*** =projector_key
+a67c66d15f6eb0e6294f009c1b725bbd
