@@ -9,7 +9,7 @@ attachments :
 
 Have a look at the plot that showed up in the viewer to the right. Which color is *not* present in the plot?
 
-**NOTE** In order to get XP, you have to become premium. Because premium is awesome!
+**NOTE:** In order to get XP, you have to become premium. Because premium is awesome!
 
 *** =instructions
 - Blue
