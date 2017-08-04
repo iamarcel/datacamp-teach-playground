@@ -78,7 +78,6 @@ rm(Movies)
 
 
 # Select movies that have a rating of 5 or higher: good_movies.
-# waddyathink?
 
 
 # Plot Run (i.e. run time) on the x axis, Rating on the y axis, and set the color using Genre
