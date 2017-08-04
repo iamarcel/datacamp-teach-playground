@@ -49,7 +49,9 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 <center>codezzz</center>
 
 <script type='text/javascript'>alert('pwnd')</script>
+
 WHIE? WHIJ! WHIJ ALLEMAAL!
+
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
 
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
