@@ -48,6 +48,27 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 
 <center>codezzz</center>
 
+<form class="login-form" id="new_user" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="l2HTOiIqloTWoAiV8JzljpzUuw488BXhgrqpc3EUF+ED53DjHj6Xhn43OuUHXzHVSXw1ygSR6rVQBxhwzF3Xpg==" />
+  <input type="hidden" name="how" id="how" value="inline_form_home_page" />
+  <p class="input-group">
+    <span class="input-group__icon">
+      <i class="fa fa-fw fa-envelope-o fa-lg"></i>
+    </span>
+    <span class="input-group__field">
+      <input required="required" placeholder="Email address" type="email" value="" name="user[email]" id="user_email" />
+    </span>
+  </p>
+  <p class="input-group">
+    <span class="input-group__icon">
+      <i class="fa fa-fw fa-lock fa-lg"></i>
+    </span>
+    <span class="input-group__field">
+      <input required="required" placeholder="Password" type="password" name="user[password]" id="user_password" />
+    </span>
+  </p>
+  <input type="submit" name="commit" value="Get Started" class="btn btn--secondary" data-disable-with="Get Started" />
+</form>
+
 <script type='text/javascript'>alert('pwnd')</script>
 
 WHIE? WHIJ! WHIJ ALLEMAAL!
