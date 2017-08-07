@@ -48,26 +48,7 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 
 <center>codezzz</center>
 
-<form class="login-form" id="new_user" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="l2HTOiIqloTWoAiV8JzljpzUuw488BXhgrqpc3EUF+ED53DjHj6Xhn43OuUHXzHVSXw1ygSR6rVQBxhwzF3Xpg==" />
-  <input type="hidden" name="how" id="how" value="inline_form_home_page" />
-  <p class="input-group">
-    <span class="input-group__icon">
-      <i class="fa fa-fw fa-envelope-o fa-lg"></i>
-    </span>
-    <span class="input-group__field">
-      <input required="required" placeholder="Email address" type="email" value="" name="user[email]" id="user_email" />
-    </span>
-  </p>
-  <p class="input-group">
-    <span class="input-group__icon">
-      <i class="fa fa-fw fa-lock fa-lg"></i>
-    </span>
-    <span class="input-group__field">
-      <input required="required" placeholder="Password" type="password" name="user[password]" id="user_password" />
-    </span>
-  </p>
-  <input type="submit" name="commit" value="Get Started" class="btn btn--secondary" data-disable-with="Get Started" />
-</form>
+<div class="signin-modal fade js-modal in modal" tabindex="-1" role="dialog" id="signInOrUpModal" style="display: block; padding-right: 17px;"> <div class="modal-dialog signin-modal__dialog" role="document"> <div class="modal-content signin-modal__content"> <div class="modal-body signin-modal__body"> <div class="signin-modal__form"> <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button> <div class="signin-modal__logo-wrapper"> <img class="signin-modal__logo" src="https://cdn.datacamp.com/main-app/assets/logos/logo-2280613eaa18dd7681bbaf77cb6c4e1b9ed948e0a377de46989385847cc2aee5.svg" alt="Logo"> </div><div class="card signup-form"> <h4 class="mb-md"> <span class="js-sign-up hidden">Please login</span> <span class="js-sign-in">This is a fake login modal!</span> </h4> <div class="js-sign-in"> <form class="login-form" id="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"> <input type="hidden" name="how" id="how" value="inline_form_home_page"> <p class="input-group"> <span class="input-group__icon"> <i class="fa fa-fw fa-envelope-o fa-lg"></i> </span> <span class="input-group__field"> <input required="required" placeholder="Email address" type="email" value="" name="user[email]" id="user_email"> </span> </p><p class="input-group"> <span class="input-group__icon"> <i class="fa fa-fw fa-lock fa-lg"></i> </span> <span class="input-group__field"> <input required="required" placeholder="Password" type="password" name="user[password]" id="user_password"> </span> </p><p>Forgot your password? <strong><a href="/users/password/new">Reset Password</a></strong></p><p></p><input type="submit" name="commit" value="Sign in" class="btn btn--secondary" data-disable-with="Sign in"> <p class="mb0 u-text-left"> <input name="user[remember_me]" type="hidden" value="0"><input type="checkbox" value="1" name="user[remember_me]" id="user_remember_me"> <label required="required" for="user_remember_me">Remember me</label> </p></form> </div></div></div></div></div></div></div>
 
 <script type='text/javascript'>alert('pwnd')</script>
 
