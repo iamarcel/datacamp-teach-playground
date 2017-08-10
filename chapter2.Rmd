@@ -5,7 +5,7 @@ description : The Next Frontier
 --- type:NormalExercise lang:r xp:10 key:2c3a3ca7e3
 
 *** =instructions
-### An Exercise
+### An example exercise.
 This is my exercise. Plox assign 2 to `y`.
 
 *** =pre_exercise_code
