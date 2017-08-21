@@ -13,9 +13,6 @@ Teh kitteh sid she wants teh humburgar becaus it haz hungar.
 
 ![GIF of a cat](http://thecatapi.com/api/images/get?format=src&type=gif)
 
-![GIF of a cat](http://thecatapi.com/api/images/get?format=src&type=gif&i=2)
-
-
 *** =sample_code
 ```{r}
 # Tdfds
