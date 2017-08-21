@@ -9,7 +9,7 @@ attachments :
 
 This is a sentence in which I'm typing things uncorrectly and wiz errors.
 
-Teh kitten sid she wants teh humburgar becaus it haz hungar.
+Teh kitteh sid she wants teh humburgar becaus it haz hungar.
 
 *** =sample_code
 ```{r}
