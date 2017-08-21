@@ -7,7 +7,7 @@ attachments :
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:018f6cdce0
 ## Free points
 
-This is a sentence in which Im typing thins correctly and wiz errors.
+This is a sentence in which I'm typing thins correctly and wiz errors.
 
 Teh kitten sid she wants teh humburgar becaus she haz hungar.
 
