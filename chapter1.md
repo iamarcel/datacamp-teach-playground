@@ -11,6 +11,9 @@ This is a sentence in which I'm typing things uncorrectly and wiz errors.
 
 Teh kitteh sid she wants teh humburgar becaus it haz hungar.
 
+![GIF of a cat](http://thecatapi.com/api/images/get?format=src&type=gif)
+
+
 *** =sample_code
 ```{r}
 # Tdfds
