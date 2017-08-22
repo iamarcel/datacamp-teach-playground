@@ -7,7 +7,7 @@ attachments :
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:018f6cdce0
 ## Free points
 
-This is a sentence in which I'm typing things uncorrectly and wiz errors.
+This is a sentence in which I'm typing things uncorrectly and wiz errors. You can edit this.
 
 Teh kitteh sid she wants teh humburgar becaus it haz hungar.
 
